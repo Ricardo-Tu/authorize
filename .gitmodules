@@ -1,0 +1,3 @@
+[submodule "authorized/sourcefiles/crypto/FourQlib"]
+	path = authorized/sourcefiles/crypto/FourQlib
+	url = https://github.com/microsoft/FourQlib.git
